@@ -64,6 +64,7 @@ if (mouseX < 100) {
 } else {
   ellipse(600, 500, 200, 100);
 }
+
 // draw function
 if (mouseX < 100) {
   ellipse(100, 100, 200, 100);
